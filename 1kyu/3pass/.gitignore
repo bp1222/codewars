@@ -1,0 +1,5 @@
+a.out
+*.dSYM
+.idea
+full.c
+.obj
